@@ -6,7 +6,7 @@ silvas mod menu is a **feature-packed** mod menu for Gorilla Tag, built by me, *
 ## 💡 Why Open-Source?  
 Great question. The modding community used to be about **sharing, learning, and improving** together. But nowadays, everything’s locked behind **paywalls and obfuscation**. That’s not how it should be.  
 
-By making **ii's Stupid Menu** open-source, I'm giving **everyone** the opportunity to:  
+By making **silvas mod menu** open-source, I'm giving **everyone** the opportunity to:  
 ✅ **Learn** how mod menus work  
 ✅ **Experiment** with new ideas  
 ✅ **Contribute** to the Gorilla Tag modding scene  
@@ -30,7 +30,7 @@ Feel like something is missing? Make a pull request if you want code added to th
 
 # 📥 Installation (It’s Easy, I Promise)  
 1️⃣ **Download** the latest release 👉 [here](https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest)  
-2️⃣ **Drag & Drop** `iis_Stupid_Menu.dll` into your **plugins** folder  
+2️⃣ **Drag & Drop** `silvas mod menu.dll` into your **plugins** folder  
 3️⃣ **Launch** Gorilla Tag and enjoy!
 Done. That’s it. Go have fun. 🎮🔥
 
