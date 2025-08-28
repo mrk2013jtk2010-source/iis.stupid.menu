@@ -1,20 +1,5 @@
-<p align="center">
-  <a href="#"><img src="https://i.imgur.com/aOzcbjM.png"></a>
-  <a href="#"><img src="https://i.imgur.com/W2ZjSPs.png"></a>
-</p>
-
----
-
-<p align="center">
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
-	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
-</p>
-
----
-
-# 🛠️ ii's Stupid Menu  
-ii's Stupid Menu is a **feature-packed** mod menu for Gorilla Tag, built by me, **iiDk**. Whether you're looking to experiment, explore, or just mess around, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
+#  🛠️  silvas mod menu
+silvas mod menu is a **feature-packed** mod menu for Gorilla Tag, built by me, **iiDk**. Whether you're looking to experiment, explore, or just mess around, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
 
 > Why settle for boring when you can have **stupidly good**?  
 
