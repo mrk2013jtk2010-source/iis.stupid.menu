@@ -2923,7 +2923,7 @@ namespace iiMenu.Mods
             }
         }
 
-        public static void CustomMenuName()
+        public static void CustomMenuName(silva)
         {
             doCustomName = true;
             if (!File.Exists($"{PluginInfo.BaseDirectory}/iiMenu_CustomMenuName.txt"))
